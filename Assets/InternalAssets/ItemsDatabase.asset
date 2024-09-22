@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21298370ad60eab4abc64184d8c14023, type: 3}
+  m_Name: ItemsDatabase
+  m_EditorClassIdentifier: 
+  Items:
+  - id: $redSmall
+    name: Red Bird
+    icon: {fileID: 5978898516894778253, guid: 17c558ddb31742c42894aa507b18c308, type: 3}
+    rarity: 0
+    dropChance: 100
+  - id: $redGigachad
+    name: Red Gigachad Bird
+    icon: {fileID: 2995288305113397050, guid: 826cca8098ba67444800308fae791ca3, type: 3}
+    rarity: 1
+    dropChance: 18
+  - id: $orangeGigachad
+    name: Orange Gigachad Bird
+    icon: {fileID: -6907072107442916967, guid: 6ac408124b4fe5f49ac61db2bf90a89f, type: 3}
+    rarity: 1
+    dropChance: 16
+  - id: $purpleBig
+    name: Purple Big Bird
+    icon: {fileID: -7679294837404564279, guid: 9176962214b43bc45ae68c2f7bc7b380, type: 3}
+    rarity: 2
+    dropChance: 13
+  - id: $orange_strBird
+    name: Purple Big Bird
+    icon: {fileID: -7679294837404564279, guid: 9176962214b43bc45ae68c2f7bc7b380, type: 3}
+    rarity: 2
+    dropChance: 13
+  - id: $blueHappy
+    name: Blue Happy Bird
+    icon: {fileID: -7068613016846842766, guid: b2aa4dabd5098a44d9db709d0d3c77f6, type: 3}
+    rarity: 3
+    dropChance: 6
+  - id: $yellow
+    name: Blue Happy Bird
+    icon: {fileID: -4219432189240919666, guid: 564918fc2b04dd64aa99ffe8c6dac7e6, type: 3}
+    rarity: 4
+    dropChance: 3
